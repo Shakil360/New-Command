@@ -22,9 +22,9 @@ Executable File  677 lines (604 sloc)  23 KB
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Author 	: 	SHAKIL-BD 
 ##   Version 	: 	2.1
-##   Github 	: 	https://github.com/htr-tech
+##   Github 	: 	https://github.com/Shakil360
 
 ##   THANKS TO :
 ##   Aditya Shakya - https://github.com/adi1090x
